@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.cosornio.com/)
+[![Header](https://raw.githubusercontent.com/c-osornio/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.cosornio.com/)
 
 ### Hi there 👋
 
