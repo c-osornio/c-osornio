@@ -4,7 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/-cosornio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://cosornio.com)](https://cosornio.com)
 
 ## About Me
-I am a Full-Stack Software Developer with experience in Python, Java, and JavaScript. I have also worked with a variety of frameworks, libraries, databases, and cloud services, including Flask, Django, React, Redux, AWS EC2, mySQL and MongoDB. I am passionate about building full-stack applications that provide a great user experience and solve real-world problems.
+Underwriter turned Software Engineer 🏠👨‍💻 
+
+Skilled web developer with a strong foundation in Python, Java, and JavaScript. Proven ability to rapidly learn and effectively apply new technologies, as well as a passion for creating intuitive and visually appealing user experiences through UI/UX design. Detail oriented and analytical, with over 10 years of experience in finance. 
+
+Seeking to leverage my technical skills and financial expertise, as a web developer in a challenging and rewarding role.
 
 ### Technical Skills
 
