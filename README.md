@@ -50,5 +50,7 @@ Frameworks/Libraries:
 - Full-Stack Software Development Certificate | Coding Dojo
 - Associate of Arts, Business Administration | Fullerton College
 
+
 ![C-Osornio's github stats](https://github-readme-stats.vercel.app/api?username=c-osornio&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-osornio&layout=compact)](https://github.com/c-osornio/github-readme-stats)
