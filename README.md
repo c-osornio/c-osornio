@@ -1,18 +1,24 @@
-[![Header](https://raw.githubusercontent.com/c-osornio/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.cosornio.com/)
+# Hello, my name is Carlos Osornio Enriquez 👋
 
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Osornio%20Enriquez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-osornio/)](https://www.linkedin.com/in/carlos-osornio/)
 
-<!--
-**c-osornio/c-osornio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website Badge](https://img.shields.io/badge/-cosornio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://cosornio.com)](https://cosornio.com)
 
-Here are some ideas to get you started:
+## About Me
+I am a Full-Stack Software Developer with experience in Python, Java, and JavaScript. I have also worked with a variety of frameworks, libraries, databases, and cloud services, including Flask, Django, React, Redux, AWS EC2, and MongoDB. I am passionate about building full-stack applications that provide a great user experience and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages/ Stacks: Python, Java, JavaScript (MERN), CSS, HTML, SQL
+- Frameworks/Libraries: Flask, Django, React, Redux, EmailJS, Next.js, Node.js, Mongoose, Express, Socket.io, Spring MVC, Bootstrap, Materialize, Tailwind, SASS/LESS
+- Databases: MySQL, MongoDB
+- Cloud: AWS EC2, Gunicorn, Nginx, Vercel
+- Web Technologies: RESTful APIs, Rest Controller, AJAX, Context API, Axios
+- Tools: Git, Github, Terminal, GitBash, Powershell, VS Code, SpringBoot, Postman, JSON, Bcrypt, Jinja, JSX, MySQL Workbench, MongoDB Compass/Atlas, OOP, Figma, Balsamiq
+
+## Technical Projects
+- Lead Software Engineer | Just 4 Kicks (e-commerce) | just4kicks.cosornio.com
+- Software Engineer | Kringle | kringle.cosornio.com
+
+## Education
+- Full-Stack Software Development Certificate | Coding Dojo
+- Associate of Arts, Business Administration | Fullerton College
