@@ -6,9 +6,6 @@
 ## About Me
 I am a Full-Stack Software Developer with experience in Python, Java, and JavaScript. I have also worked with a variety of frameworks, libraries, databases, and cloud services, including Flask, Django, React, Redux, AWS EC2, mySQL and MongoDB. I am passionate about building full-stack applications that provide a great user experience and solve real-world problems.
 
-## Technical Skills
-### Technical Skills
-
 ### Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
