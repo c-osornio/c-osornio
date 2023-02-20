@@ -10,7 +10,7 @@ Skilled web developer with a strong foundation in Python, Java, and JavaScript. 
 
 Seeking to leverage my technical skills and financial expertise, as a web developer in a challenging and rewarding role.
 
-### Technical Skills
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
