@@ -19,7 +19,7 @@ Seeking to leverage my technical skills and financial expertise, as a web develo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## Frameworks/Libraries: 
+## Frameworks/Libraries 
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
