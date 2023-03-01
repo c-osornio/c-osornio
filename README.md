@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-cosornio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://cosornio.com)](https://cosornio.com)
 
 ## About Me
+
 Underwriter turned Software Engineer 🏠👨‍💻 
 
 Skilled web developer with a strong foundation in Python, Java, and JavaScript. Proven ability to rapidly learn and effectively apply new technologies, as well as a passion for creating intuitive and visually appealing user experiences through UI/UX design. Detail oriented and analytical, with over 10 years of experience in finance. 
@@ -17,7 +18,6 @@ Seeking to leverage my technical skills and financial expertise, as a web develo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ## Frameworks/Libraries 
 
