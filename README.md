@@ -43,11 +43,13 @@ Seeking to leverage my technical skills and financial expertise, as a web develo
 
 
 ## Technical Projects
+
 - Software Engineer | Portfolio | cosornio.com
 - Lead Software Engineer | Just 4 Kicks (e-commerce) | just4kicks.cosornio.com
 - Software Engineer | Kringle | kringle.cosornio.com
 
 ## Education
+
 - Full-Stack Software Development Certificate | Coding Dojo | Python, Java, JavaScript (MERN)
 - Associate of Arts, Business Administration | Fullerton College
 
