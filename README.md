@@ -5,11 +5,17 @@
 
 ## About Me
 
-Underwriter turned Software Engineer 🏠👨‍💻 
+🏠👨‍💻 Skilled freelance full-stack software engineer with a strong foundation in Python, Java, and JavaScript (MERN). Proven ability to rapidly learn and effectively apply new technologies.
 
-Skilled web developer with a strong foundation in Python, Java, and JavaScript. Proven ability to rapidly learn and effectively apply new technologies, as well as a passion for creating intuitive and visually appealing user experiences through UI/UX design. Detail oriented and analytical, with over 10 years of experience in finance. 
+I have always been interested in technology and how it can impact and improve our lives. However, it wasn't until recently that I had the opportunity to fully embrace my passion for software engineering. Last year, I was laid off from a declining industry and decided to take a leap of faith and pursue my dream.
 
-Seeking to leverage my technical skills and financial expertise, as a web developer in a challenging and rewarding role.
+Initially, my knowledge was limited to self taught basic HTML, CSS, JavaScript, and React. However, I decided to invest in myself and enrolled in a coding bootcamp for full-stack web development in Python, Java, and JavaScript (MERN) in the same week I was laid off. I was determined to succeed and went on to achieve a triple black belt, which was the highest grade per stack.
+
+Through this experience, I discovered my passion for software engineering and its ability to create innovative solutions that positively impact people's lives. This passion led me to become a certified ScrumMaster, and I am now working freelance to develop my portfolio as I seek my first development role.
+
+As a former mortgage underwriter, I bring a unique blend of analytical and creative skills to my work as a software developer. My experience has given me a keen eye for detail and the ability to think critically, skills that are all invaluable in the world of web development.
+
+I am excited to take my skills and experience to the next level and am actively seeking opportunities to join a dynamic and innovative team in web development. If you are looking for a dedicated and driven software developer with a strong work ethic and a passion for technology, please don't hesitate to get in touch!
 
 ## Technical Skills
 
