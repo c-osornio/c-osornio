@@ -50,14 +50,17 @@ I am excited to take my skills and experience to the next level and am actively 
 
 ## Technical Projects
 
-- Software Engineer | Portfolio | cosornio.com
-- Lead Software Engineer | Just 4 Kicks (e-commerce) | just4kicks.cosornio.com
-- Software Engineer | Kringle | kringle.cosornio.com
+- Freelance Full Stack Developer | Sabai Haus | sabaihaus.com
+- Full Stack Software Engineer | Portfolio | cosornio.com
+- Lead Full Stack Software Engineer | Just 4 Kicks (e-commerce) | just4kicks.cosornio.com
+- Full Stack Software Engineer | Kringle | kringle.cosornio.com
 
 ## Education
 
+- Certified ScrumMaster | Scrum Alliance
 - Full-Stack Software Development Certificate | Coding Dojo | Python, Java, JavaScript (MERN)
-- Associate of Arts, Business Administration | Fullerton College
+- AA, Business Administration | Fullerton College
+- Graduating Oct 2024 | BS, Business Administration w/ conc. in Management Information Systems | SNHU
 
 ![C-Osornio's github stats](https://github-readme-stats.vercel.app/api?username=c-osornio&show_icons=true&theme=radical)
 
