@@ -11,7 +11,7 @@ I have always been interested in technology and how it can impact and improve ou
 
 Initially, my knowledge was limited to self taught basic HTML, CSS, JavaScript, and React. However, I decided to invest in myself and enrolled in a coding bootcamp for full-stack web development in Python, Java, and JavaScript (MERN) in the same week I was laid off. I was determined to succeed and went on to achieve a triple black belt, which was the highest grade per stack.
 
-Through this experience, I discovered my passion for software engineering and its ability to create innovative solutions that positively impact people's lives. This passion led me to become a certified ScrumMaster, and I am now working freelance to develop my portfolio as I seek my first development role.
+Through this experience, I discovered my passion for software engineering and its ability to create innovative solutions that positively impact people's lives. This passion led me to become a certified ScrumMaster, and I am now working freelance to develop my portfolio as I seek my first development role. while finishing my bachelors in Business Administration w/ conc. in Management Information Systems at SNHU. 
 
 As a former mortgage underwriter, I bring a unique blend of analytical and creative skills to my work as a software developer. My experience has given me a keen eye for detail and the ability to think critically, skills that are all invaluable in the world of web development.
 
