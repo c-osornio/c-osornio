@@ -60,8 +60,4 @@ I am excited to take my skills and experience to the next level and am actively 
 - Certified ScrumMaster | Scrum Alliance
 - Full-Stack Software Development Certificate | Coding Dojo Part of Colorado Tech University | Python, Java, JavaScript (MERN)
 - AA, Business Administration | Fullerton College
-- Graduating Oct 2024 | BS, Business Administration w/ conc. in Management Information Systems | SNHU
-
-![C-Osornio's github stats](https://github-readme-stats.vercel.app/api?username=c-osornio&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-osornio&layout=compact)](https://github.com/c-osornio/github-readme-stats)
+- Graduating Aug 2024 | BS, Business Administration w/ conc. in Management Information Systems | SNHU
