@@ -7,7 +7,7 @@
 
 🏠👨‍💻 Skilled freelance full-stack software engineer with a strong foundation in Python, Java, and JavaScript (MERN). Proven ability to rapidly learn and effectively apply new technologies.
 
-I have always been interested in technology and how it can impact and improve our lives. However, it wasn't until recently that I had the opportunity to fully embrace my passion for software engineering. Last year, I was laid off from a declining industry and decided to take a leap of faith and pursue my dream.
+I have always been interested in technology and how it can impact and improve our lives. However, it wasn't until recently that I had the opportunity to fully embrace my passion for software engineering. 2022, I was laid off from a declining industry and decided to take a leap of faith and pursue my dream.
 
 Initially, my knowledge was limited to self taught basic HTML, CSS, JavaScript, and React. However, I decided to invest in myself and enrolled in a coding bootcamp for full-stack web development in Python, Java, and JavaScript (MERN) in the same week I was laid off. I was determined to succeed and went on to achieve a triple black belt, which was the highest grade per stack.
 
