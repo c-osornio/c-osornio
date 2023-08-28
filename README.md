@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-cosornio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://cosornio.com)](https://cosornio.com)
     
 ## About Me   
-
+ 
 🏠👨‍💻 Skilled freelance full-stack software engineer with a strong foundation in Python, Java, and JavaScript (MERN). Proven ability to rapidly learn and effectively apply new technologies.
 
 I have always been interested in technology and how it can impact and improve our lives. However, it wasn't until recently that I had the opportunity to fully embrace my passion for software engineering. 2022, I was laid off from a declining industry and decided to take a leap of faith and pursue my dream.
