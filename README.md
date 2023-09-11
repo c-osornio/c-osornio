@@ -2,7 +2,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Osornio%20Enriquez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-osornio/)](https://www.linkedin.com/in/carlos-osornio/)
 [![Website Badge](https://img.shields.io/badge/-cosornio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://cosornio.com)](https://cosornio.com)
-      
+       
 ## About Me       
  
 🏠👨‍💻 Skilled freelance full-stack software engineer with a strong foundation in Python, Java, and JavaScript (MERN). Proven ability to rapidly learn and effectively apply new technologies.
