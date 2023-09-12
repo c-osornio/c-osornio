@@ -58,6 +58,6 @@ I am excited to take my skills and experience to the next level and am actively 
 ## Education
 
 - Certified ScrumMaster | Scrum Alliance
-- Full-Stack Software Development Certificate | Coding Dojo Part of Colorado Tech University | Python, Java, JavaScript (MERN)
+- Full-Stack Software Development Certificate | Coding Dojo Part of Colorado Tech University | Triple Black Belt Python, Java, JavaScript (MERN)
 - AA, Business Administration | Fullerton College
-- Graduating Aug 2024 | BS, Business Administration w/ conc. in Management Information Systems | SNHU
+- BS, Business Administration w/ conc. in Management Information Systems | Southern New Hampshire University 
